@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
             MySampleApp1Theme {
                 // A surface container using the 'background' color from the theme
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-                    Greeting("Jai Sri Ram ji ki Sita maa")
+                    Greeting("Jai Sri Ram")
                 }
             }
         }
