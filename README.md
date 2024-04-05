@@ -1,2 +1,2 @@
 **This is a sample app which does nothing speciail.**
-Hosted it just for rating purpose
+Hosted it just for testing purpose
